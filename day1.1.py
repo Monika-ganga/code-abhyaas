@@ -1,3 +1,4 @@
+#find the occurence of each number#
 arr=[1,2,2,3,4,4,5]
 dict={}
 for i in arr:
