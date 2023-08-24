@@ -1,3 +1,4 @@
+#finding the maximum count of duplicates#
 arr=[1,2,2,3,4,4,4,5]
 dict={}
 for i in arr:
